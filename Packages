@@ -1,0 +1,19 @@
+Package: sconnector
+Version: 1.1.5
+Architecture: amd64
+Maintainer: sConnector
+Installed-Size: 271675
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0
+Filename: ./pool/latest/sConnector_1.1.5_amd64.deb
+Size: 68025262
+MD5sum: c8ce9b08303f0b9649b16ef2803b3879
+SHA1: f382622ffebb88f343a1fabac1e36643aabec5cb
+SHA256: ae50496a0c1f2ac973a367b7bd274821e48ae357f338f434498d7ece515806e1
+Section: default
+Priority: optional
+Homepage: https://sconnector.dev
+Description:
+  sConnector - Efficient Visual Testing Platform for gRPC interfaces
+License: PRIVATE
+Vendor: sConnector
+
